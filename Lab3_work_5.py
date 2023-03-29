@@ -43,4 +43,3 @@ print(a)
 a.append_str("Home work")
 print(a)
 
-
